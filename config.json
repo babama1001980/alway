@@ -5,7 +5,7 @@
 		"loglevel": "warning"
 	},
 	"inbounds": [{
-			"port": 10000,
+			"port": 30000,
 			"listen": "127.0.0.1",
 			"protocol": "vmess",
 			"settings": {
@@ -22,7 +22,7 @@
 			}
 		},
 		{
-			"port": 20000,
+			"port": 40000,
 			"listen": "127.0.0.1",
 			"protocol": "vless",
 			"settings": {
