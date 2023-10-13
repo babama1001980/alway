@@ -99,7 +99,7 @@ clear
 echo -e "\e[32m$Author\e[0m"
 
 echo -e "\n\e[33m请 COPY 以下绿色文字到 SERVICE Command* 中：\n\e[0m"
-echo -e "\e[32m./v2ray -config config.json\e[0m"
+echo -e "\e[32m./sing-box -config config.json\e[0m"
 echo -e "\n\e[33m请 COPY 以下绿色文字到 Advanced Settings 中：\n\e[0m"
 echo -e "\e[32m$Advanced_Settings\e[0m"
 
