@@ -9,7 +9,7 @@ export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'faacf142-dee8-48c2-8558-641123eb939c'}
 export CFIP=${CFIP:-'cc.mu2023.eu.org'}
 export NAME=${NAME:-''}
-export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
+export SERVER_PORT="${SERVER_PORT:-${PORT:-4850}}"
 export port1=${port1:-'8080'}
 
 ARCH=$(uname -m)
